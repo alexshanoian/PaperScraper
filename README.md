@@ -1,4 +1,4 @@
-Description:
+<h6>Description:</h6>
   Arxiv.org Emerging Technologies paper scraper that queries the 25 most recent Computer Science > Emerging Technologies scholarly articles and returns the article's abstract and url.
 
 Use Case:
