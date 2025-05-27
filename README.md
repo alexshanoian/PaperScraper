@@ -9,5 +9,7 @@
 You may also change Line 9 (list_url) to any other arxiv topic.<br>
 ex) https://arxiv.org/list/cs.ET/recent?skip=0&show=25</p>
 
-<p>Thanks for your time,<br>
-Alex</p>
+<p>
+Output example:
+</p>
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/9e09e18e-078a-400f-b968-1c847492b97d">
